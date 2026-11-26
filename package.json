@@ -1,0 +1,1 @@
+{"description":"Clean-surge paper-trading bot for the Pump.fun Sharpe Sprint (make.fun, pumpfun-replay/v2). Deterministic, zero dependencies, no network.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"pump-fun-sharpe-sprint-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
